@@ -1,6 +1,6 @@
 # Command line password generator
 
-This project is a simple Node.js application for managing passwords.
+This project is a simple Node.js application for generating random passwords from upper and lowercase letters, numbers and symbols (from shift + number keys).
 
 ## Installation
 
