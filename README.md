@@ -1,4 +1,4 @@
-# Passwords Management Tool
+# Command line password generator
 
 This project is a simple Node.js application for managing passwords.
 
